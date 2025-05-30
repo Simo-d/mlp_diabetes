@@ -70,8 +70,8 @@ This project implements a Multi-Layer Perceptron (MLP) neural network from scrat
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/diabetes-neural-network.git
-cd diabetes-neural-network
+git clone https://github.com/Simo-d/mlp_diabetes.git
+cd mlp_diabetes
 ```
 
 2. **Install dependencies**
@@ -228,7 +228,7 @@ The implementation generates:
 ## 📁 Project Structure
 
 ```
-diabetes-neural-network/
+mlp_diabetes/
 │
 ├── neural_network_diabetes.py    # Main implementation
 ├── requirements.txt              # Dependencies
@@ -312,20 +312,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this code in your research or educational work, please cite:
 
 ```bibtex
-@misc{diabetes_mlp_2024,
+@misc{ajguernoun_diabetes_mlp_2024,
     title={Binary Classification of Diabetes Using Multi-Layer Perceptron: A From-Scratch Implementation},
-    author={Your Name},
+    author={Mohamed Ajguernoun},
     year={2024},
-    url={https://github.com/yourusername/diabetes-neural-network}
+    url={https://github.com/Simo-d/mlp_diabetes}
 }
 ```
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@university.edu
-- **University**: Your University Name
-- **Program**: Masters IMSD & IAA
+- **Author**: Mohamed Ajguernoun
+- **Program**: Masters IAA (Intelligence Artificielle et Applications)
 
 ## 🙏 Acknowledgments
 
